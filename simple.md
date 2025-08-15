@@ -1,7 +1,8 @@
 # AI Engineering Learning Roadmap (for Python users)
 
-## 1. Math for AI
+## 1. Math for AI https://chatgpt.com/c/689f8f46-61f8-832c-96e7-d40d51dd0f27
 - Linear algebra (vectors, matrices)
+- 
 - Probability & statistics
 - Calculus basics (derivatives, gradients)
 
